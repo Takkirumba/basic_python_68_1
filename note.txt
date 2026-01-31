@@ -1,0 +1,22 @@
+git clone https://github.com/Takkirumba/basic_python_68_1.git
+
+cd name_folder
+cd ..
+ls
+ls -al
+pwd
+
+code .
+antigravity .
+
+git init
+git remote add origin https://github.com/Takkirumba/basic_python_68_1.git
+
+git config --global user.name "sophida"
+git config --global user.email "sophidachaphet@gmail.com"
+
+git add .
+git commit -m "you message"
+git push orgin main
+
+git pull origin main
