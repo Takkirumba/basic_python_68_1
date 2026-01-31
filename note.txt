@@ -17,6 +17,6 @@ git config --global user.email "sophidachaphet@gmail.com"
 
 git add .
 git commit -m "you message"
-git push orgin main
+git push origin main
 
 git pull origin main
